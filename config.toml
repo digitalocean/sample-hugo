@@ -1,55 +1,127 @@
-theme = "black-and-light"
+theme = "hugo-coder"
 relativeURLs = true
 baseURL = "/"
-title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
-paginate = 3
+title = "Ivan Abramenko"
+
 languageCode = "en"
-DefaultContentLanguage = "en"
-enableInlineShortcodes = true
+defaultContentLanguage = "en"
 
-[menu]
+paginate = 20
 
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+[params]
+    author = "Ivan Abramenko"
+    description = "Ivan Abramenko's personal website"
+    copyright = "Copyright © 2020 Ivan Abramenko, all rights reserved."
+    keywords = "blog,developer,personal,product manager,project manager,teamlead"
+    info = "Poduct manager / owner, developer and Magician"
+    avatarURL = "images/avatar.jpeg"
+    footerContent = "To be continued..."
+
+    dateFormat = "January 2, 2006"
+
+    hideFooter = false
+    hideCredits = true
+    hideCopyright = true
+    since = 2020
+
+    rtl = false
+
+    colorScheme = "auto"
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    customCSS = []
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = []
+
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
 
-[privacy]
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/vaxann/"
 
-  [privacy.vimeo]
-    disabled = false
-    simple = true
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 2
+    url = "https://twitter.com/vaxann"
 
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/ivan-abramenko-9386031/"
 
-  [privacy.instagram]
-    disabled = false
-    simple = true
+[[params.social]]
+    name = "Telegram"
+    icon = "fa fa-telegram"
+    weight = 3
+    url = "https://telegram.me/vaxann"  
 
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
+[languages]
+    [languages.en]
+        languageName = "English"
 
-[services]
+        [languages.en.menu]
+          [[languages.en.menu.main]]
+            identifier = "home"
+            name = "Home"
+            url = "/"
+            weight = 1
+          [[languages.en.menu.main]]
+            identifier = "blog"
+            name = "Blog"
+            url = "https://blog.abramenko.me"
+            weight = 2
+          [[languages.en.menu.main]]
+            identifier = "about"
+            name = "About"
+            url = "/about/"
+            weight = 3
 
-  [services.instagram]
-    disableInlineCSS = true
+    [languages.ru]
+        languageName = "Русский"
+        title = "Иван Абраменко"
 
-  [services.twitter]
-    disableInlineCSS = true
+        [languages.ru.params]
+            author = "Иван Абраменко"
+            info = "Продакт, разработчик и немого Волшебник"
+            description = "Персональный сайт Ивана Абраменко"
+            keywords = "блогер,разработчик,персональная страница, продакт менеджер, продуктовый менеджер, проджект менеджер, проектный менеджер, тилид, руководитель команды"
+            footerContent = "Продолжение следует..."
+
+        [languages.ru.menu]
+          [[languages.ru.menu.main]]
+            identifier = "home"
+            name = "Главная"
+            url = "/"
+            weight = 1
+          [[languages.ru.menu.main]]
+            identifier = "blog"
+            name = "Блог"
+            url = "https://blog.abramenko.me"
+            weight = 2
+          [[languages.ru.menu.main]]
+            identifier = "about"
+            name = "О сайте"
+            url = "/about/"
+            weight = 3
