@@ -17,11 +17,11 @@ pygmentsCodeFencesGuessSyntax = true
     description = "Ivan Abramenko's personal website"
     copyright = "Copyright © 2020 Ivan Abramenko, all rights reserved."
     keywords = "blog,developer,personal,product manager,project manager,teamlead"
-    info = "Poduct manager / owner, developer and Magician"
+    info = "Poduct manager / owner, team-lead, developer and Magician"
     avatarURL = "images/avatar.jpeg"
     footerContent = "To be continued..."
 
-    dateFormat = "January 2, 2006"
+    dateFormat = "January, 2006"
 
     hideFooter = false
     hideCredits = true
@@ -80,6 +80,8 @@ series = "series"
 [languages]
     [languages.en]
         languageName = "English"
+        languageCode = "en"
+        contentDir = "content"
 
         [languages.en.menu]
           [[languages.en.menu.main]]
@@ -93,18 +95,25 @@ series = "series"
             url = "https://blog.abramenko.me"
             weight = 2
           [[languages.en.menu.main]]
+            identifier = "portfolio"
+            name = "Portfolio"
+            url = "/portfolio/"
+            weight = 3
+          [[languages.en.menu.main]]
             identifier = "about"
             name = "About"
             url = "/about/"
-            weight = 3
+            weight = 4
 
     [languages.ru]
         languageName = "Русский"
+        languageCode = "ru"
+        contentDir = "content/ru"
         title = "Иван Абраменко"
 
         [languages.ru.params]
             author = "Иван Абраменко"
-            info = "Продакт, разработчик и немого Волшебник"
+            info = "Продакт, тим-лид, разработчик и немого Волшебник"
             description = "Персональный сайт Ивана Абраменко"
             keywords = "блогер,разработчик,персональная страница, продакт менеджер, продуктовый менеджер, проджект менеджер, проектный менеджер, тилид, руководитель команды"
             footerContent = "Продолжение следует..."
@@ -121,7 +130,12 @@ series = "series"
             url = "https://blog.abramenko.me"
             weight = 2
           [[languages.ru.menu.main]]
-            identifier = "about"
-            name = "О сайте"
-            url = "/about/"
+            identifier = "portfolio"
+            name = "Опыт"
+            url = "/portfolio/"
             weight = 3
+          [[languages.ru.menu.main]]
+            identifier = "about"
+            name = "Обо мне"
+            url = "/about/"
+            weight = 4
