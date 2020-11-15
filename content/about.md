@@ -1,25 +1,59 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = ""
+date = "2020-11-14"
+aliases = ["about-me", "contact"]
+author = "Ivan Abramenko"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+### I have experience in:
+- product development (managing) and put it on the market,
+- management of different teams: developers, analysts, pre-sale engineers,
+- organization and execution of keynotes, workshops and other public activities,
+- product presentation on famous exhibitions.
 
-Hugo makes use of a variety of open source projects including:
+### Hobby is development pet-projects in a field of:
+- Development of systems for online sales and online-stores
+- Home automation and IoT, development of Telegram bot for intelligent management of media resources at home
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I like to automate and optimize "everything" from business processes and working tools to everyday tasks.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Languages
+- Russian — Native
+- English — C2 — Proficiency
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## Key skills
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+MS Visual C++
+C#
+.NET Framework
+Java
+Node.js
+SCADA
+Electrical Engineering
+Electric Power
+OTS
+Presentation skills
+Sales Skills
+MS Project
+TFS
+Git
+MS SQL Server
+MongoDB
+1С-Битрикс
+Scrum
+UML
+Управление рисками
+Atlassian Jira
+Agile Project Management
+Разработка технических заданий
+Управление командой
+Разработка нового продукта
+Постановка задач разработчикам
+Team management
+Product Management
+Энергетика
+IoT
+
+
