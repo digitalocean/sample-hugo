@@ -23,7 +23,7 @@ pygmentsCodeFencesGuessSyntax = true
 
     dateFormat = "January, 2006"
 
-    hideFooter = false
+    hideFooter = true
     hideCredits = true
     hideCopyright = true
     since = 2020
