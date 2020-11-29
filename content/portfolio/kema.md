@@ -8,5 +8,5 @@ author = "Ivan Abramenko"
 Netherlands, kema.com
 
 Working on: 
-- Cigre Chapter 5 financial models, 
+- CIGRE Chapter 5 financial models, 
 - Fuses and Circuit-Breakers’ replay models parameters in EDP distribution Grid
