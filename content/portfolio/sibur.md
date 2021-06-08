@@ -1,6 +1,6 @@
 +++
 title = "Sibur JSC  - Project manager Energy Balances"
-date = "2020-12-01"
+date = "2021-06-01"
 aliases = ["about-me", "contact"]
 author = "Ivan Abramenko"
 +++
