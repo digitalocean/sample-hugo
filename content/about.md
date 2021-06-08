@@ -6,24 +6,39 @@ aliases = ["about-me", "contact"]
 author = "Ivan Abramenko"
 +++
 
-### I have experience in:
+## I have experience in:
 - product development (managing) and put it on the market,
 - management of different teams: developers, analysts, pre-sale engineers,
 - organization and execution of keynotes, workshops and other public activities,
 - product presentation on famous exhibitions.
 
-### Hobby is development pet-projects in a field of:
+## Education
+
+Год  | Курс                                                                  | Faculty
+-----|-----------------------------------------------------------------------|---------------------------------
+2009 | __Moscow Power Engineering Institute (National Research University)__ | Moscow Institute of Electrical Power Engineering, Electrical power systems and grids
+2016 | __Vladimir Stoletovs State University__                               | Functional Analysis and Its Applications (graduate school), Remote control of distributed power systems (PHD)
+
+## Advanced training, courses
+
+Год  | Курс
+-----|--------------------------------------------------------------------------------------------------------
+2018 | __Faculty of Economics, Lomonosov Moscow State University__ blockchainfounder.ru, Blockchain Founder
+2018 | __State University of Management__ , Personal and professional qualities of a manager (soft-skills)
+
+
+## Hobby is development pet-projects in a field of:
 - Development of systems for online sales and online-stores
 - Home automation and IoT, development of Telegram bot for intelligent management of media resources at home
 
 I like to automate and optimize "everything" from business processes and working tools to everyday tasks.
 
-## Languages
+# Languages
 - Russian — Native
 - English — C2 — Proficiency
 
 
-## Key skills
+# Key skills
 
 MS Visual C++
 C#
@@ -44,16 +59,16 @@ MongoDB
 1С-Битрикс
 Scrum
 UML
-Управление рисками
+Risk management
 Atlassian Jira
 Agile Project Management
-Разработка технических заданий
-Управление командой
-Разработка нового продукта
-Постановка задач разработчикам
+Development of technical descriptions
+Team management
+New product development
+Tasking developers
 Team management
 Product Management
-Энергетика
+Energy
 IoT
 
 

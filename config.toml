@@ -26,7 +26,7 @@ pygmentsCodeFencesGuessSyntax = true
     hideFooter = true
     hideCredits = true
     hideCopyright = true
-    since = 2020
+    since = 2021
 
     rtl = false
 
