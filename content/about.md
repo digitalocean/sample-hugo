@@ -14,7 +14,7 @@ author = "Ivan Abramenko"
 
 ## Education
 
-Год  | Курс                                                                  | Faculty
+Год  | University                                                            | Institute, Faculty
 -----|-----------------------------------------------------------------------|---------------------------------
 2009 | __Moscow Power Engineering Institute (National Research University)__ | Moscow Institute of Electrical Power Engineering, Electrical power systems and grids (Bachelor, Master)
 2016 | __Vladimir Stoletovs State University__                               | Functional Analysis and Its Applications (graduate school), Remote control of distributed power systems (PHD)
