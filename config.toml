@@ -12,12 +12,17 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
     author = "Ivan Abramenko"
     description = "Ivan Abramenko's personal website"
     copyright = "Copyright © 2020 Ivan Abramenko, all rights reserved."
     keywords = "blog,developer,personal,product manager,project manager,teamlead"
-    info = "Poduct manager / owner, team-lead, developer and Magician"
+    info = "Poduct manager / owner, team-lead, developer and magician"
     avatarURL = "images/avatar.jpeg"
     footerContent = "To be continued..."
 
@@ -96,8 +101,8 @@ series = "series"
             weight = 2
           [[languages.en.menu.main]]
             identifier = "portfolio"
-            name = "Portfolio"
-            url = "/portfolio/"
+            name = "Experience"
+            url = "/experience/"
             weight = 3
           [[languages.en.menu.main]]
             identifier = "about"
@@ -132,7 +137,7 @@ series = "series"
           [[languages.ru.menu.main]]
             identifier = "portfolio"
             name = "Опыт"
-            url = "/portfolio/"
+            url = "/experience/"
             weight = 3
           [[languages.ru.menu.main]]
             identifier = "about"

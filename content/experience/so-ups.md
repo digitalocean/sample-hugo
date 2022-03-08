@@ -3,6 +3,8 @@ title = "SO UPS (System Operator of United Power System) - Leading engineer"
 date = "2011-08-01"
 aliases = ["about-me", "contact"]
 author = "Ivan Abramenko"
+[_build]
+  list = "never"
 +++
 
 Moscow, www.so-ups.ru

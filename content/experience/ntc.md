@@ -3,6 +3,8 @@ title = "NTC FGC UES (Scientific-Technical Center of Power Engineering Federal G
 date = "2009-04-01"
 aliases = ["about-me", "contact"]
 author = "Ivan Abramenko"
+[_build]
+  list = "never"
 +++
 
 Moscow, ntc-power.ru
