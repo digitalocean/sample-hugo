@@ -3,6 +3,8 @@ title = "KEMA Arnhem - Intership"
 date = "2007-07-01"
 aliases = ["about-me", "contact"]
 author = "Ivan Abramenko"
+[_build]
+  list = "never"
 +++
 
 Netherlands, kema.com

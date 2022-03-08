@@ -14,14 +14,14 @@ author = "Ivan Abramenko"
 
 ## Education
 
-Год  | University                                                            | Institute, Faculty
+Year  | University                                                            | Institute, Faculty
 -----|-----------------------------------------------------------------------|---------------------------------
 2009 | __Moscow Power Engineering Institute (National Research University)__ | Moscow Institute of Electrical Power Engineering, Electrical power systems and grids (Bachelor, Master)
 2016 | __Vladimir Stoletovs State University__                               | Functional Analysis and Its Applications (graduate school), Remote control of distributed power systems (PHD)
 
 ## Advanced training, courses
 
-Год  | Course
+Year  | Course
 -----|--------------------------------------------------------------------------------------------------------
 2018 | __Faculty of Economics, Lomonosov Moscow State University__ blockchainfounder.ru, Blockchain Founder
 2018 | __State University of Management__ , Personal and professional qualities of a manager (soft-skills)

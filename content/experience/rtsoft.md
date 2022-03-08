@@ -3,6 +3,8 @@ title = "RTSoft JSC - Head of Product Department"
 date = "2020-02-01"
 aliases = ["about-me", "contact"]
 author = "Ivan Abramenko"
+[_build]
+  list = "never"
 +++
 
 Moscow, www.rtsoft.ru/en/
