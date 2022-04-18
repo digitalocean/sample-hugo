@@ -17,11 +17,16 @@ enableInlineShortcodes = true
     url = "/"
     weight = 1
   [[menu.main]]
+    identifier = "profile"
+    name = "Profile"
+    url = "/profile/"
+    weight = 10
+[[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 10
-
+    weight = 20
+    
 [taxonomies]
 category = "categories"
 tag = "tags"
@@ -30,7 +35,7 @@ series = "series"
 [privacy]
 
   [privacy.vimeo]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.twitter]
@@ -39,7 +44,7 @@ series = "series"
     simple = true
 
   [privacy.instagram]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.youtube]
