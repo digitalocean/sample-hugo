@@ -1,5 +1,5 @@
 ---
-title: 'Our Difference'
+title: 'D Devolution - breaking shit so you dont have to!'
 button: 'Company Profile'
 weight: 2
 ---
