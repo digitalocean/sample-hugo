@@ -20,9 +20,9 @@ pygmentsCodeFencesGuessSyntax = true
 [params]
     author = "Ivan Abramenko"
     description = "Ivan Abramenko's personal website"
-    copyright = "Copyright © 2020 Ivan Abramenko, all rights reserved."
+    copyright = "Copyright © 2023 Ivan Abramenko, all rights reserved."
     keywords = "blog,developer,personal,product manager,project manager,teamlead"
-    info = "Poduct manager / owner, team-lead, developer and magician"
+    info = "Team-lead, poduct manager / owner, developer and magician"
     avatarURL = "images/avatar.jpeg"
     footerContent = "To be continued..."
 

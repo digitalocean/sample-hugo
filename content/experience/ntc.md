@@ -9,8 +9,18 @@ author = "Ivan Abramenko"
 
 Moscow, ntc-power.ru
 
-- development of electric power system model,
-working on the development of the Dispatcher Training Simulator software and dynamic and transient network model for UPS of Russia,
-- power system visualization,
-- application programs (watch programs),
-- new methods for presenting dispatcher information.
+## Work Experience
+- Developed electric power system model
+- Contributed to the development of Dispatcher Training Simulator software and dynamic and transient network model for UPS of Russia
+- Worked on power system visualization
+- Created application programs (watch programs)
+- Developed new methods for presenting dispatcher information
+
+## Skills
+1. Electric power system modeling
+2. Dispatcher Training Simulator software development
+3. Dynamic and transient network modeling
+4. Power system visualization
+5. Application programming
+6. Innovative information presentation methods
+

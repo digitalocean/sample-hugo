@@ -6,11 +6,9 @@ aliases = ["about-me", "contact"]
 author = "Ivan Abramenko"
 +++
 
-## I have experience in:
-- product development (managing) and put it on the market,
-- management of different teams: developers, analysts, pre-sale engineers,
-- organization and execution of keynotes, workshops and other public activities,
-- product presentation on famous exhibitions.
+## Summary:
+
+As an experienced software developer, I have a strong background in product development, team management, and public engagements. I am proficient in designing ontologies, architectures, and implementing various technologies. My demonstrated ability to effectively lead diverse teams, organize and execute keynotes and workshops.
 
 ## Education
 
@@ -25,6 +23,8 @@ Year  | Course
 -----|--------------------------------------------------------------------------------------------------------
 2018 | __Faculty of Economics, Lomonosov Moscow State University__ blockchainfounder.ru, Blockchain Founder
 2018 | __State University of Management__ , Personal and professional qualities of a manager (soft-skills)
+2019 | __Neural university__ neural-university.ru, Neural Networks in Python
+2021 | __Skill Factory__ skillfactory.ru, iOS-Developer
 
 
 ## Hobby is development pet-projects in a field of:
@@ -38,37 +38,106 @@ I like to automate and optimize "everything" from business processes and working
 - English — C2 — Proficiency
 
 
-# Key skills
+# Skills
 
-MS Visual C++
-C#
-.NET Framework
-Java
-Node.js
-SCADA
-Electrical Engineering
-Electric Power
-OTS
-Presentation skills
-Sales Skills
-MS Project
-TFS
-Git
-MS SQL Server
-MongoDB
-1С-Битрикс
-Scrum
-UML
-Risk management
-Atlassian Jira
-Agile Project Management
-Development of technical descriptions
-Team management
-New product development
-Tasking developers
-Team management
-Product Management
-Energy
-IoT
+## Technical Knowledge & Skills:
+- Solution architecture development
+- Ontology development
+- Microservice Architecture Design
+- API Development & Integration & documentation
+- Test Driving Development (TDD)
+- Domain-driven design (DDD)
+- Platform Performance Optimization
+- Security & Scalability Guides
+- Algorithm development for software modules
+- Cloud Computing Resource Procurement
+- Big data collection
+  - Dashboards creation
+  - Data-lake creation/utilization
+- UI/UX mockups development
+- DevOps & Administration
+- Code Reviews
+
+## Programming Languages & Technologies:
+- JavaScript (TypeScript)
+  - NodeJS: (Express, Nest, Mongoose, Prism, Strapi)
+  - React (Next), Vue, Angular, SVG, Canvas
+- Python (FastApi, Django, Pydantic, SQLAlchemy)
+- NoSQL (Mongo, LevelDb)
+- SQL (MySQL, MsSQL, Postgres, Vertica, ClickHouse)
+- Solidity (TRC20, ERC20 contracts)
+- RabbitMQ, Kafka
+- Docker Compose/Swarm
+- Kubernetes
+- C++ (Boost)
+- Java (Spring, Akka)
+- C# (.Net Core)
+
+## Product & Project Management:
+- Product Management
+- Product development and implementation
+- Strategic planning
+- Visioning and strategizing for complex systems
+- Technical project management
+- Agile/Scrum Process Management
+- Hypothesis Testing
+- Resource Estimation
+- MVP Development
+- Team Formation
+- Risk management
+- Implementing and managing Agile/Scrum/Kan-ban methodologies
+- Tracking team performance metrics
+- Backlog management
+- Functional and non-functional requirements formation
+- Creating and maintaining product roadmaps
+- Test-beds creation
+
+## Team Management & Collaboration:
+- Cross-Functional Team Collaboration
+- Employee Career Development
+- Managing remote team members
+- Recruiting and interviewing potential team members
+- Developing motivation programs (e.g., Management by Objectives approach)
+- Technical Interviews
+
+## Pre-sales Support:
+- Pre-sale presentations and demonstrations
+- Financial analysis & modeling
+- Developing feasibility study methodologies
+- Designing test-beds and preparing demos at conferences and seminars
+- Establishing pre-sales processes
+
+## Software & Tools:
+- Environment Setup (Development, Testing, Production)
+- CI/CD (Github Actions, GitLab, Drone, TeamCity)
+- Development Tool Implementation:
+  - Atlassian Jira
+  - BigPicture
+  - Tempo
+  - Confluence
+- Siemens NX
+- Tableau
+
+## Communication & Documentation:
+- Technical writing and communication
+- Presentation skills (Innovative methods)
+- Functional testing and work acceptance
+
+## Data Analysis & Optimization:
+- Data analysis (Statistics, Jupiter Notebooks)
+- Optimization & Forecasting (ARIMA, LSTM, Gradient Boosting)
+
+## Industry Specific Skills:
+- Power System simulation and modeling
+- E-learning system 
+- SAP integration
+- IIoT & Metering
+- Renewables (PV, Wind, ESS, etc.)
+- GE MES (Energy Balances)
+- SCADA systems development and implementation
+  - Building Energy Management Systems (BMS)
+  - Energy Management Systems (EMS)
+  - Distribution Management System (DMS) 
+  - Outage Management System (OMS) 
 
 

@@ -11,8 +11,15 @@ Moscow, www.alterosmart.com
 
 Product Consultant - Product is AlteroBMS (Building Energy Management System)
 
-Main tasks:
-- Product Vision
-- RoadMaps
-- Requirements and prototypes development - Testing hypothesis
-- Pre-sale activities
+# Key Tasks and Responsibilities
+- Developed product vision and defined roadmap for AlteroBMS.
+- Worked closely with development team to identify and prioritize requirements for the product.
+- Developed prototypes to test hypotheses and validate assumptions.
+- Conducted pre-sale activities, including product demos and presentations.
+
+# Skills:
+- Product Management
+- Prototyping
+- Sales and Marketing
+- Problem-Solving
+- Technical Knowledge (Building Energy Management Systems and related technologies)

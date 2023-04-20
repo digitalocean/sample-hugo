@@ -9,9 +9,27 @@ author = "Ivan Abramenko"
 
 Moscow, www.sibur.com
 
-Project manager for the implementation (further replication) of software products of Technological Energy Balances (TEB) is a complex IT solution that allows  to increase the granularity of data in MES for decomposition of unbalances (loss / accounting errors) and the formation of activities to normalize and reduce losses.
+Served as the project manager for the deployment and subsequent replication of Technological Energy Balances (TEB) software solutions, which enhance data granularity in MES systems to identify and rectify imbalances (losses/accounting errors) while facilitating the development of strategies to normalize and minimize losses.
 
 ## Main tasks:
-- Implementation, replication functional development and integration with ERP (SAP) of the Energy Balances (part of MES system) for each SIBUR plant. (platforms GE MES, Indasoft EMS/DRMS)
-- Collection of big-data of energy (incoming, consumption, losses, debalanses, energy efficiency actions). Building dashboards on the data-lake (Vertica, Python, Tableau)
-- Implementation project-tools: Atlassian Jira (+BigPicture, Tempo), Confluence for cross functional teams
+- Oversaw the execution, duplication, and functional enhancement of Energy Balances within the MES system, while ensuring SAP integration for every SIBUR facility
+- Gathered extensive energy-related data, including input, usage, loss, imbalance, and energy efficiency measures, and created data-lake-based dashboards
+- Utilized project management tools such as Atlassian Jira, BigPicture, Tempo, and Confluence to facilitate collaboration among cross-functional teams
+
+## Skills
+- Management and oversight
+- SAP integration
+- MES systems
+- Energy Balances
+- Big data collection
+- Dashboard creation
+- Data-lake utilization
+- Atlassian Jira
+- BigPicture
+- Tempo
+- Confluence
+- Cross-functional team collaboration
+- Project management
+- Technological Energy Balances (TEB)
+- Data granularity
+- Loss minimization strategies

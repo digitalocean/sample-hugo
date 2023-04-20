@@ -9,7 +9,15 @@ author = "Ivan Abramenko"
 
 Moscow, www.apsbt.ru/en
 
-Main tasks:
-- Development strategy of the company in the market of commercial dispatching of consumers - Definition of technical requirements for the commercial dispatching system software
-- Solution architecture and ontology development
-- Pre-sale activities
+## Main Tasks:
+- Developed and implemented strategies for the company in the commercial dispatching market.
+- Defined technical requirements for the commercial dispatching system software.
+- Created solution architecture and developed ontology.
+- Engaged in pre-sale activities.
+
+## Skills:
+- Strategic planning
+- Technical requirement analysis
+- Solution architecture development
+- Ontology development
+- Pre-sales support

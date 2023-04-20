@@ -9,28 +9,48 @@ author = "Ivan Abramenko"
 
 Moscow, www.rtsoft.ru/en/
 
-Head of Product Department products family is AMIGO (Energy Managment System for distributed energy resources, renewables, industrial facilities, buildings and etc.) http://amigo-energy.com
+Head of Product Department - AMIGO Energy Management System
 
-## Product-manager:
-- Preparing upper-level technical requirements for software developers and analysts;
-- Drawing RoadMap (planning releases, demo-days); 
-- Cooperation with the team for developing: presentation materials, technical descriptions and etc.;
-- Forming of the products price policy;
-- Risk management: adjusting releases and development strategies for changing resources, time frames, deadlines;
+## Product Management:
 
-## Team-Leader tasks: 
-- Organization of Agile / Scrum development: sprint-planning with the team (analysts and developers);
-- Management of remote (out-source and out-stuff) employees;
-- Team productivity counting (velocities, bugs, releases, etc.)
+- Developed high-level technical requirements for software developers and analysts
+- Created and maintained product roadmap, planning releases and demo days
+- Collaborated with development team to produce presentation materials and technical documentation
+- Established product pricing strategy
+- Managed risks by adjusting releases and development strategies based on resource availability and timelines
 
-## Pre-sale tasks:
-- Head of pre-sales department. Implementation Agile / Kanban;
-- Development of methodology for the feasibility study and economic calculations of Microgrid projects;
-- Design Test-beds and preparing Demos;
-- Organization conferences and seminars for customers. Make public speaking.
-- Participation in domestic and international exhibitions (Hannover Messe, Utility Week, Intersolar, Cigre, etc.)
+## Team Leadership:
+- Implemented Agile/Scrum development methodologies, including sprint planning with analysts and developers
+- Oversaw remote team members and ensured productivity
+- Tracked team performance through metrics such as velocities, bugs, and releases
 
-## General:
-- Building developer and pre-sale flow and implementation dev-tools: Atlassian (Trello, Jira, Confluence, BitBucket, Bamboo), Bitrix24
-- Team forming: interview with the team (developers, analysts, pre-sales);
-- Development of motivation programs Management by objectives (MBO)
+## Pre-Sales Responsibilities:
+- Led pre-sales department, incorporating Agile/Kanban methodologies
+- Created methodology for feasibility studies and economic calculations of microgrid projects
+- Designed test-beds and prepared demos for clients
+- Organized and presented at conferences and seminars for customers
+- Participated in domestic and international exhibitions, including Hannover Messe, Utility Week, Intersolar, Cigre, and others
+
+## General Contributions:
+- Established development and pre-sales processes and implemented development tools such as Atlassian suite and Bitrix24
+- Recruited and interviewed potential team members, including developers, analysts, and pre-sales staff
+- Developed motivation programs using Management by Objectives (MBO) approach
+
+## Skills
+- Developing high-level technical requirements
+- Creating and maintaining product roadmaps
+- Collaborating with development teams
+- Establishing pricing strategies
+- Risk management
+- Implementing Agile/Scrum methodologies
+- Managing remote team members
+- Tracking team performance metrics
+- Leading pre-sales departments
+- Developing feasibility study methodologies
+- Designing test-beds and preparing demos
+- Organizing and presenting at conferences and seminars
+- Participating in exhibitions
+- Establishing development and pre-sales processes
+- Implementing development tools (e.g., Atlassian suite, Bitrix24)
+- Recruiting and interviewing potential team members
+- Developing motivation programs (e.g., Management by Objectives approach)

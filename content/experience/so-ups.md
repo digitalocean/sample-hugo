@@ -9,7 +9,13 @@ author = "Ivan Abramenko"
 
 Moscow, www.so-ups.ru
 
-- operation Dispatcher Training Power System simulator (PSM Finist),
-- tune/build Power System model and watch interfaces,
-- testing and introducing OTS part of SCADA/EMS,
-- developing e-learning education systems.
+## Work Experience
+- Operation Dispatcher Training Power System Simulator (PSM Finist)
+- Tuning and building Power System models and monitoring interfaces
+- Testing and implementing OTS portion of SCADA/EMS
+- Developing e-learning educational systems
+
+## Skills
+- Power System simulation and modeling
+- SCADA/EMS testing and implementation
+- E-learning system development
