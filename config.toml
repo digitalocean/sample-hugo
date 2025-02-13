@@ -1,4 +1,4 @@
-theme = "paper"
+theme = "beautifulhugo"
 relativeURLs = true
 baseURL = "/"
 title = "Hugo Themes"
