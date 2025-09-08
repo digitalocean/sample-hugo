@@ -7,6 +7,7 @@ copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all r
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [pagination]
   paperSize = 3
@@ -35,7 +36,7 @@ series = "series"
     disabled = false
     simple = true
 
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
@@ -53,5 +54,5 @@ series = "series"
   [services.instagram]
     disableInlineCSS = true
 
-  [services.twitter]
+  [services.x]
     disableInlineCSS = true
